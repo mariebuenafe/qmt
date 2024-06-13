@@ -1,10 +1,10 @@
 # ITEQMT-FinalRequirement
-This is a streamlit-based web application
-You may visit the site: 
+This web application is built on Streamlit.
 
-Web App Features
+Visit the site at:
+
+Web App Features:
+
 Earthquake Prediction
-
 Sentiment Analysis
-
 Image Classification
