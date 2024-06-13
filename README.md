@@ -6,5 +6,7 @@ Visit the site at:
 Web App Features:
 
 Earthquake Prediction
+
 Sentiment Analysis
+
 Image Classification
