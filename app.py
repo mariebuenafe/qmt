@@ -46,7 +46,7 @@ with open('cat_breeds_model.pkl', 'rb') as f:
 img2vec = Img2Vec()
 
 # Load the dataset
-data = pd.read_csv("/content/covid19globalstatisticsdataset.csv")
+data = pd.read_csv("covid19globalstatisticsdataset.csv")
 
 # Preprocess columns containing non-numeric values
 def remove_commas_and_convert_to_numeric(value):
@@ -218,7 +218,7 @@ elif app_mode == "Sample Source Code":
         import numpy as np
 
         # Load the dataset
-        data = pd.read_csv("/content/covid19globalstatisticsdataset.csv")
+        data = pd.read_csv("covid19globalstatisticsdataset.csv")
 
         # Define a function to remove commas and convert to numeric
         def remove_commas_and_convert_to_numeric(value):
